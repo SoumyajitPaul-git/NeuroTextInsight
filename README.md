@@ -3,7 +3,7 @@
 
 **NeuroText Insight** is a web-based biomedical NLP tool that intelligently extracts neurodegeneration-related entities from research text using both static keyword matching and dynamic deep-learning-based techniques (via **scispaCy**). It provides visual insights into term frequency and generates word clouds to assist neuroscience and biomedical researchers.
 
-![NeuroText Insight Screenshot](static/demo_screenshot.png)
+![NeuroText Insight Screenshot](static/demo_screenshot_neurotext.png)
 
 ---
 
@@ -60,7 +60,7 @@ neurotext-insight/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/neurotext-insight.git
+git clone https://github.com/SoumyajitPaul-git/neurotext-insight.git
 cd neurotext-insight
 ```
 
@@ -139,9 +139,9 @@ Copy-paste this into the text area:
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Soumyajit Paul**  
 *Biomedical NLP & AI Research Enthusiast*  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@SoumyajitPaul-git](https://github.com/SoumyajitPaul-git)
 
 ---
 
