@@ -1,0 +1,6 @@
+flask
+spacy
+scispacy
+matplotlib
+seaborn
+wordcloud
