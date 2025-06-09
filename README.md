@@ -140,7 +140,6 @@ Copy-paste this into the text area:
 ## 🧑‍💻 Author
 
 **Soumyajit Paul**  
-*Biomedical NLP & AI Research Enthusiast*  
 GitHub: [@SoumyajitPaul-git](https://github.com/SoumyajitPaul-git)
 
 ---
