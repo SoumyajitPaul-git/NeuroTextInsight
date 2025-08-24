@@ -27,3 +27,4 @@ def extract_dynamic_entities(text):
     doc = nlp(text)
     entities = [ent.text.lower() for ent in doc.ents]
     return list(set(entities)), Counter(entities)
+
