@@ -28,7 +28,7 @@ def index():
                 unique_id = str(uuid.uuid4())
                 chart_path = os.path.join('static', 'charts', f'wordcloud_{unique_id}.png')
                 generate_wordcloud(frequencies, chart_path)
-                chart_url = f'charts/wordcloud_{unique_id}.png'  # relative to static folder
+                chart_url = f'charts/wordcloud_{unique_id}.png'  
 
     return render_template(
         "index.html",
@@ -42,3 +42,4 @@ def index():
 if __name__ == '__main__':
     os.makedirs("static/charts", exist_ok=True)
     app.run(debug=True)
+
